@@ -1,0 +1,35 @@
+h1 {
+  color: purple;
+  text-align: center;
+  border: dashed;
+  border-color:blue;
+}
+#bulb {
+  width: 150px;
+  height: 150px;
+  border: 10px dotted;
+  border-color: cyan;
+}
+#Thomasalvaedison {
+  width: 150px;
+  height: 150px;
+  border: 10px solid;
+  border-color: pink;
+}
+h2 {
+  text-align: center;
+  color: green;
+  border: dashed;
+  border-color: blue;
+  
+}
+body {
+  background-color:cyan;
+  color: violet;
+  border: solid;
+}
+
+h3{
+font-size:20px;
+text-color;
+}
